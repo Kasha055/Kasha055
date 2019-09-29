@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p {
+      font-size: 35px;
+      color: #ffffff;
+      font-family: 'Pacifico', cursive;
+      padding: 13px;
+	}
+  p:hover{
+    color: #740404;
+    font-family: 'Pacifico';
+    font-size: 40px;
+
+  }
+
+  h1{
+      font-size: 30px;
+      color:grey;
+      font-family: 'Press Start 2P' ,cursive;
+      border:3px solid gold;
+      padding:5px;
+
+
+  }
+  h1:hover {
+  font-size: 55px;
+  border: transparent;
+
+}
+  a {
+
+      font-size: 25px;
+      font-family: 'Press Start 2P';
+      color: #ffffff;
+      padding: 3px;
+      
+      display:inline-block;
+      margin: 15px;
+      text-decoration: none;
+      border: 3px solid  #ffffff;
+
+      transition: 0.5s ease-in;
+
+  }
+  a:hover {
+    color: #ed1f35;
+    font-family: 'Pacifico';
+    font-size: 40px;
+    border: transparent;
+    background-color: black;
+  }
+
+  div{
+      width: 60%;
+      margin: auto;
+      background-color: blue;
+      background-image: url(chicken.jpg);
+
+  }
+
+  body{
+      background-image: url(OvZ.gif);
+      background-position:center;
+      background-size: cover;
+
+  }
+  img{
+    display: block;
+    margin:auto;
+    
+  }
